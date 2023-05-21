@@ -210,7 +210,7 @@ plt.rcParams['axes.unicode_minus']=False
     plt.show()
     ```
     
-    ![Untitled](%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8A%E1%85%A5%E1%86%AB%20matplotlib(1)%203624ea29b61d4e8088fd3198f7a22e56/Untitled.png)
+    ![Untitled](./img/Untitled.png)
     
 
 - **범례 표시하기**
@@ -350,7 +350,7 @@ ax1.set_title('title')
     fig.tight_layout()
     ```
     
-    ![Untitled](%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8A%E1%85%A5%E1%86%AB%20matplotlib(1)%203624ea29b61d4e8088fd3198f7a22e56/Untitled%201.png)
+    ![Untitled](./img/Untitled%201.png)
     
 
 - **그래프 순서에 따라 Subplot 그리기**
@@ -412,7 +412,7 @@ ax1.set_title('title')
     plt.show()
     ```
     
-    ![Untitled](%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8A%E1%85%A5%E1%86%AB%20matplotlib(1)%203624ea29b61d4e8088fd3198f7a22e56/Untitled%202.png)
+    ![Untitled](./img/Untitled%202.png)
     
 
 - 이미지 파일로 저장하기
