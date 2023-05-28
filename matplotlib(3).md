@@ -19,7 +19,7 @@
             , bbox={'boxstyle':'round', 'fc':'skyblue', 'ec':'b', 'alpha':0.3})
     ```
     
-    ![Untitled](matplotlib(3)%2071e67a429c6944e78ed71d88626e2abb/Untitled.png)
+    ![Untitled](./img/matplotlib(3)/Untitled.png)
     
 
 - **화살표와 텍스트 추가하기**
@@ -45,7 +45,7 @@
     )
     ```
     
-    ![Untitled](matplotlib(3)%2071e67a429c6944e78ed71d88626e2abb/Untitled%201.png)
+    ![Untitled](./img/matplotlib(3)/Untitled%201.png)
     
 
 ### 이중 y축 사용하기
@@ -61,7 +61,7 @@
     plt.show()
     ```
     
-    ![Untitled](matplotlib(3)%2071e67a429c6944e78ed71d88626e2abb/Untitled%202.png)
+    ![Untitled](./img/matplotlib(3)/Untitled%202.png)
     
 
 - **이중 y축 만들기**
@@ -78,7 +78,7 @@
     plt.show()
     ```
     
-    ![Untitled](matplotlib(3)%2071e67a429c6944e78ed71d88626e2abb/Untitled%203.png)
+    ![Untitled](./img/matplotlib(3)/Untitled%203.png)
     
 
 - **축 레이블 표시하기**
@@ -110,7 +110,7 @@
     ax2.tick_params(axis='y', colors='darkred')
     ```
     
-    ![Untitled](matplotlib(3)%2071e67a429c6944e78ed71d88626e2abb/Untitled%204.png)
+    ![Untitled](./img/matplotlib(3)/Untitled%204.png)
     
 
 - **범례 표시**
@@ -134,4 +134,4 @@
     ax2.grid(axis='y', ls='--', color='pink')
     ```
     
-    ![Untitled](matplotlib(3)%2071e67a429c6944e78ed71d88626e2abb/Untitled%205.png)
+    ![Untitled](./img/matplotlib(3)/Untitled%205.png)
