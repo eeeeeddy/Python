@@ -210,7 +210,7 @@ plt.rcParams['axes.unicode_minus']=False
     plt.show()
     ```
     
-    ![Untitled](./img/Untitled.png)
+    ![Untitled](./img/matplotlib(1)/Untitled.png)
     
 
 - **범례 표시하기**
@@ -350,7 +350,7 @@ ax1.set_title('title')
     fig.tight_layout()
     ```
     
-    ![Untitled](./img/Untitled%201.png)
+    ![Untitled](./img/matplotlib(1)/Untitled%201.png)
     
 
 - **그래프 순서에 따라 Subplot 그리기**
@@ -412,7 +412,7 @@ ax1.set_title('title')
     plt.show()
     ```
     
-    ![Untitled](./img/Untitled%202.png)
+    ![Untitled](./img/matplotlib(1)/Untitled%202.png)
     
 
 - 이미지 파일로 저장하기
