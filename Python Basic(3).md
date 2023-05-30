@@ -195,6 +195,6 @@ n (1, 'a')
 <class 'dict'>
 ```
 
-![Untitled](Python%20Basic(3)%20fe6252ba86b4409394b754316a16c4f6/Untitled.png)
+![Untitled](./img/Python Basic(3)/Untitled.png)
 
-![Untitled](Python%20Basic(3)%20fe6252ba86b4409394b754316a16c4f6/Untitled%201.png)
+![Untitled](./img/Python Basic(3)/Untitled%201.png)
